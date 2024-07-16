@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{383F60B5-3FA6-4B43-8232-F69047F73C3D}|Store.Api\\Store.Api.csproj|m:\\m vs\\exercitii curs\\projectcurs\\project\\store\\store.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{383F60B5-3FA6-4B43-8232-F69047F73C3D}|Store.Api\\Store.Api.csproj|solutionrelative:store.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82175212-ED04-4EC3-B5C1-D3A81A654896}|Store.Services\\Store.Services.csproj|m:\\m vs\\exercitii curs\\projectcurs\\project\\store\\store.services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82175212-ED04-4EC3-B5C1-D3A81A654896}|Store.Services\\Store.Services.csproj|solutionrelative:store.services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82175212-ED04-4EC3-B5C1-D3A81A654896}|Store.Services\\Store.Services.csproj|m:\\m vs\\exercitii curs\\projectcurs\\project\\store\\store.services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82175212-ED04-4EC3-B5C1-D3A81A654896}|Store.Services\\Store.Services.csproj|solutionrelative:store.services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B89E5-E913-41E9-8745-018C75118B0C}|Store.Repositories\\Store.Repositories.csproj|m:\\m vs\\exercitii curs\\projectcurs\\project\\store\\store.repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B89E5-E913-41E9-8745-018C75118B0C}|Store.Repositories\\Store.Repositories.csproj|solutionrelative:store.repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D54B89E5-E913-41E9-8745-018C75118B0C}|Store.Repositories\\Store.Repositories.csproj|m:\\m vs\\exercitii curs\\projectcurs\\project\\store\\store.repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D54B89E5-E913-41E9-8745-018C75118B0C}|Store.Repositories\\Store.Repositories.csproj|solutionrelative:store.repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\Store.Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Store.Services\\ICategoryService.cs",
+              "ToolTip": "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\Store.Services\\ICategoryService.cs",
+              "RelativeToolTip": "Store.Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:50:33.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\Store.Api\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Store.Api\\Controllers\\CategoriesController.cs",
+              "ToolTip": "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\Store.Api\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Store.Api\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowDAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:49:10.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\Store.Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Store.Services\\CategoryService.cs",
+              "ToolTip": "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\Store.Services\\CategoryService.cs",
+              "RelativeToolTip": "Store.Services\\CategoryService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAwwD4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:40:22.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\Store.Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Store.Repositories\\CategoryRepository.cs",
+              "ToolTip": "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\Store.Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Store.Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:13:35.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\Store.Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Store.Repositories\\ICategoryRepository.cs",
+              "ToolTip": "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\Store.Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Store.Repositories\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T17:13:19.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
