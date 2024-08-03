@@ -2,7 +2,9 @@ using Microsoft.EntityFrameworkCore;
 using Store.Data;
 using Store.Mappings;
 using Store.Repositories;
-using Store.Services;
+using Store.Repositories.CustomerRepository;
+using Store.Services.CategoryService;
+using Store.Services.CustomerService;
 
 namespace Store
 {
@@ -20,12 +22,19 @@ namespace Store
 
             // Add repositories
             builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
-
             builder.Services.AddScoped<ICategoryService, CategoryService>();
+
+            //Add customer Repository
+
+            builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
+            builder.Services.AddScoped<ICustomerService, CustomerService>();
 
             // Automapper configuration
             builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             builder.Services.AddAutoMapper(typeof(CategoryProfile));
+            builder.Services.AddAutoMapper(typeof(CustomerProfile));
+
+
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();

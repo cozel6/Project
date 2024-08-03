@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Store.Mappings")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+189e116d335123a203dcd448fde76d89f1e39424")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df6bb6a52d96161ca33e6c0e34017e0256b478bd")]
 [assembly: System.Reflection.AssemblyProductAttribute("Store.Mappings")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Store.Mappings")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -18,6 +18,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Store.Mappings\Store.Mappings.csproj" />
+    <ProjectReference Include="..\Store.Models\Store.Models.csproj" />
+    <ProjectReference Include="..\Store.Repositories\Store.Repositories.csproj" />
     <ProjectReference Include="..\Store.Services\Store.Services.csproj" />
   </ItemGroup>
 

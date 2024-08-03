@@ -179,7 +179,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\Store.Domain\\Store.Domain.csproj": {
+                "projectPath": "M:\\M VS\\Exercitii Curs\\ProjectCurs\\Project\\Store\\Store.Domain\\Store.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {

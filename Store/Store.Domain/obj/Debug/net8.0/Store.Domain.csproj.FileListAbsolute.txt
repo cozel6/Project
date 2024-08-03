@@ -1,0 +1,15 @@
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\bin\Debug\net8.0\Store.Domain.deps.json
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\bin\Debug\net8.0\Store.Domain.runtimeconfig.json
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\bin\Debug\net8.0\Store.Domain.dll
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\bin\Debug\net8.0\Store.Domain.pdb
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\obj\Debug\net8.0\Store.Domain.csproj.AssemblyReference.cache
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\obj\Debug\net8.0\Store.Domain.GeneratedMSBuildEditorConfig.editorconfig
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\obj\Debug\net8.0\Store.Domain.AssemblyInfoInputs.cache
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\obj\Debug\net8.0\Store.Domain.AssemblyInfo.cs
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\obj\Debug\net8.0\Store.Domain.csproj.CoreCompileInputs.cache
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\obj\Debug\net8.0\Store.Domain.sourcelink.json
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\obj\Debug\net8.0\Store.Domain.dll
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\obj\Debug\net8.0\refint\Store.Domain.dll
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\obj\Debug\net8.0\Store.Domain.pdb
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\obj\Debug\net8.0\Store.Domain.genruntimeconfig.cache
+M:\M VS\Exercitii Curs\ProjectCurs\Project\Store\Store.Domain\obj\Debug\net8.0\ref\Store.Domain.dll
